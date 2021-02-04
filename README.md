@@ -3,6 +3,6 @@
 I have used OCR Space API.
 
 Actual Image cointaining the text:
-<img scr="img2.jpg">
+<img src="img2.jpg">
 Recognised Text:
-<img scr="ss1.png">
+<img src="ss1.png">
